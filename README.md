@@ -1,4 +1,4 @@
-# 🤖 Robot de Inventario Amazon — Búsqueda Heurística A*
+#  Robot de Inventario Amazon — Búsqueda Heurística A*
 
 Actividad grupal de la asignatura **Razonamiento y Planificación Automática** (UNIR).
 
